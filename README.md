@@ -1,4 +1,8 @@
-### Hi there 👋
+# Hi there 👋
+
+I'm Karl Kristofer Racsa in real life, a 13 year old junior programmer! 😃
+
+I'm still pretty new in terms in programming, so please i'm sorry if i make mistakes!
 
 <!--
 **nisheri-ascar/nisheri-ascar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
