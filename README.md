@@ -3,7 +3,7 @@
 I'm Karl Kristofer Racsa in real life, a 13 year old junior programmer! 😃
 
 I'm still pretty new in terms in programming, so please i'm sorry if i make mistakes!
-Here are some ideas to get you started:
+<--Here are some ideas to get you started:-->
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning kotlin, C and Python!
