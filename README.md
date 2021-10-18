@@ -1,4 +1,20 @@
+# Termux is not a Hacking tool!
+
+Its known to hacking comunnities that termux is a hacking tool
+**ITS IS NOT A HACKING TOOL!**
+Termux is meant to be linux-like enviroment for general purpose usage like developing programs
+If you are on our side, please help us spread the word!
+
+*#TermuxIsNotAHackingTool!*
+
+#
 # Hi there 👋
+
+
+
+
+
+
 
 I'm Karl Kristofer Racsa in real life, a 13 year old junior programmer! 😃
 
