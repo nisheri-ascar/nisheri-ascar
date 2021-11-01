@@ -16,7 +16,7 @@ If you are on our side, please help us spread the word!
 
 
 
-I'm Karl Kristofer Racsa in real life, a 13 year old junior programmer! 😃
+I'm Nisheri, yet another 13 year old junior programmer! 😃
 
 I'm still pretty new in terms in programming, so please i'm sorry if i make mistakes!
 <!--Here are some ideas to get you started:-->
