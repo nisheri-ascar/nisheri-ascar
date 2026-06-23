@@ -1,6 +1,6 @@
 Hello i am **nisheri-ascar!** An aspiring Game Developer and System Administrator!
 
-You can see my activities on [Bluesky](https://bsky.app/profile/nisheri-kyuniixx.bsky.social) & [Threads!](https://www.threads.com/@nisherii_ascar)
+You can see my activities on [Bluesky](https://bsky.app/profile/nisheri-kyuniixx.bsky.social), [Threads](https://www.threads.com/@nisherii_ascar) and [Personal Website!](https://nisheri-ascar.is-a.dev) (partially clanker generated..)
 
 will add more information here, while waiting, please enjoy a picture of my favorite catgirls!
 
