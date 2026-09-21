@@ -16,5 +16,5 @@ jobs:
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           badge-output-path: 'oss-badge.svg'
-          badge-style: 'compact'
-          badge-theme: 'dark'
+          badge-style: 'summary'
+          badge-theme: 'catppuccin-mocha'
