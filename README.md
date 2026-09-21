@@ -2,7 +2,7 @@
 
 systems/gamedev tinkerer — Linux internals, C/Python, and building things that run on too little RAM.
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=nisheri-ascar&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=nisheri-ascar&theme=catppuccin-mocha)](https://git.io/streak-stats)
 
 ---
 
