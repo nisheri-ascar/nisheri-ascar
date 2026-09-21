@@ -1,7 +1,7 @@
 # hey, i'm nisheri-ascar 👋
 
 systems/gamedev tinkerer — Linux internals, C/Python, and building things that run on too little RAM.
-
+![OSS Contributions](oss-badge.svg)
 ---
 
 ### currently working on
