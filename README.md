@@ -9,6 +9,7 @@ systems/gamedev tinkerer — Linux internals, C/Python, and building things that
 - 🥁 [kurisu](https://github.com/nisheri-ascar/kurisu) - Discord bot for remotely managing a Minecraft server — async Python, deployed on Koyeb
 - 🧱 **CMU UFD Booth freedom wall** - Flask backend + frontend, built with a small team (massive goats! @vlad0x-svg and @judeako402)
 - 🐧 tinkering with a Wayland desktop on Void Linux (SwayFX, waybar, conky)
+- 🪻 *working privately* relating to plants!!
 
 ---
 
